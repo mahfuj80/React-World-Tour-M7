@@ -1,6 +1,15 @@
-.country{
-    border: 2px solid steelblue;
-    margin: 15px;
-    padding: 5px;
-    border-radius: 10px;
+.country {
+  border: 2px solid steelblue;
+  margin: 15px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.visited {
+  background-color: bisque;
+  color: #000;
+}
+
+.non-visited {
+  background: #000;
 }
